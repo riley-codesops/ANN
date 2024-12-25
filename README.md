@@ -1,6 +1,6 @@
 # ANN
 A neural network for regression involving a definite model with appropriate layers and parameters tailored to the regression task.
-Building a neural network to train a regression data
+Building a neural network to train a regression data.
 The steps are as follows:
   - Handled missing values and encoded some columns in the Diamonds.csv dataset.
   - Splited and trained the data from sklearn.model_selection using the train_test_split function.
